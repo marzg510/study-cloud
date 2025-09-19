@@ -20,10 +20,17 @@ Introduction to Amazon EKS
 https://catalog.us-east-1.prod.workshops.aws/workshops/f5abb693-2d87-43b5-a439-77454f28e2e7/ja-JP
 
 3時間程度？
+2025/9/19
+8:30-10:44くらいまで　2時間～2.5時間くらい　大体3時間見た方がいいだろう
+難しいところはコピペした
+
+Next
+EKS workshop
+https://www.eksworkshop.com/
 
 Amazon RDS Performance Insights Workshop (Aurora PostgreSQL)
 https://catalog.us-east-1.prod.workshops.aws/workshops/bea58024-ba60-4875-a7c7-52121e5d4b70/ja-JP
-
+  -> このワークショップは AWS が運営するイベントでのみ使用できます。
 
 ECSブルーグリーンデプロイメントをゼロから構築する。（その１：ネットワークの設定）
 https://qiita.com/sakai00kou/items/234318b980ded1aa7577
