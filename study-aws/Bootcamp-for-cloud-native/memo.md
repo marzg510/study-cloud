@@ -13,6 +13,25 @@ VS Code Server
 http://20251024-marzg-step1.s3-website-ap-northeast-1.amazonaws.com
 
 
+Challenge 3
+CloudFront
+https://d1a2i42g24e7ri.cloudfront.net
+
+Cloud frontを前に置いたサイト
+https://d3ic2f7g0k54la.cloudfront.net/index.html
+
+デフォルトルートオブジェクトを設定後
+https://d3ic2f7g0k54la.cloudfront.net/
+
+CloudFront経由でS3の静的Webサイトを公開する手順
+https://dev.classmethod.jp/articles/cloudfront-s3web/
+
+今のコンソールだと、CloudFrontのディストリビューションの作成から、
+OAC作成を自動でやってくれる。
+デフォルトルートオブジェクトを設定しないと、index.htmlを省略できない。
+（S3はデフォルトでできていた）
+
+
 ### Commands
 
 aws --version
