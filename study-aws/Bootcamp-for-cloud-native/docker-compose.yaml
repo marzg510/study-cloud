@@ -1,0 +1,8 @@
+services:
+  aws-cli:
+    build: .
+    container_name: aws-cli
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    tty: true
